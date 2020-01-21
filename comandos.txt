@@ -142,3 +142,14 @@
   142  git push origin master
   143  git status
   144  history > comandos.txt
+  145  git log
+  146  git add comandos.txt 
+  147  git push origin 
+  148  history
+  149  git push origin master
+  150  git push -u origin master
+  151  git commit comandos.txt 
+  152  git add comandos.txt 
+  153  git commit  -m "se añade archivo commandos.txt"
+  154  git push -u origin master
+  155  history > comandos.txt
